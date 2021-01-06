@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.8.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "ex-react-native-i18n": "0.0.5",
     "i18next": "^15.0.8",
     "mkp-react-native-tab-view": "^1.2.4",
